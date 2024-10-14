@@ -1,0 +1,11 @@
+**/venv/
+**/data/
+**/checkpoint/
+.idea
+.ipynb_checkpoints
+./__pycache__
+**/__pycache__/
+checkpoint/
+data/
+__pycache__/
+venv/
